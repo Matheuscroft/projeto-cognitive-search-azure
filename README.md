@@ -1,0 +1,1 @@
+# projeto-cognitive-search-azure
